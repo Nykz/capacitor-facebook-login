@@ -1,6 +1,16 @@
 # Facebook Sign-In Setup & Troubleshooting Guide
 
-A guide for integrating and configuring native Facebook Authentication in Ionic Angular applications using `@capawesome/capacitor-facebook-sign-in`.
+A production-ready Ionic Angular application with native Facebook Authentication using `@capawesome/capacitor-facebook-sign-in`.
+
+---
+
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%" alt="Facebook Login UI" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/profile.png" width="45%" alt="Logged-in User Profile UI" />
+</p>
 
 ---
 
