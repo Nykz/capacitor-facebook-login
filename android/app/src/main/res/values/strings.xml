@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fb-login</string>
+    <string name="title_activity_main">fb-login</string>
+    <string name="package_name">com.technyks.smFbLogin</string>
+    <string name="custom_url_scheme">com.technyks.smFbLogin</string>
+    <string name="facebook_app_id">28283990797859281</string>
+    <string name="facebook_client_token">263dbae22a5cb72985730fb694931541</string>
+</resources>
